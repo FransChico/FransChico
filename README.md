@@ -1,6 +1,7 @@
 
 <p>
-    <img alt="GIF" src="![image](https://user-images.githubusercontent.com/107214201/180587005-42a83db5-9e77-4579-9c65-78750507a2aa.png)" width="100%" />
+    <img alt="GIF" src="![image](https://user-images.githubusercontent.com/107214201/180588792-772555a9-56f7-4c5c-b4e5-b38e62eab703.png)
+" width="100%" />
 </p>
 
 <p align="center">
