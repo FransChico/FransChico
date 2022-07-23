@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/francisco-stalschus/">Linkedin</a> •
+  <a href="https://www.linkedin.com/in/francisco-stalschus-25936a23b">Linkedin</a> •
   <a href="https://contate.me/Francisco-Stalschus">WhatsApp</a>
 </p>
 
